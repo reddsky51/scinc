@@ -18,6 +18,7 @@ Lo que presento es la estructura del modelo en libro. Un bosquejo del modelo, y 
 <html>
 <body>
 <textarea>
+<pre>
 <p>
 Prólogo:
 De la episteme al logos (filosofía, epistemología de la psicología)
@@ -133,6 +134,7 @@ EPÍLOGO:
 <p>
 GLOSARIO
 </p>
+</pre>
 </textarea>
 </body>
 </html>
