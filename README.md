@@ -137,7 +137,7 @@ PARTE 2
 EPÍLOGO:
 -(asimov)
 -algunas personas crecen a la sombra, otras a la luz (jung)
--jung"
+-jung
  </p>
 <p>
 GLOSARIO
