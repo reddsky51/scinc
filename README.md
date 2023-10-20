@@ -17,7 +17,7 @@ Lo que presento es la estructura del modelo en libro. Un bosquejo del modelo, y 
 
  
  
-Prólogo:
+"Prólogo:
 De la episteme al logos (filosofía, epistemología de la psicología)
 
 Introducción:
@@ -110,6 +110,6 @@ PARTE 2
 EPÍLOGO:
 -(asimov)
 -algunas personas crecen a la sombra, otras a la luz (jung)
--jung
+-jung"
  
 GLOSARIO
