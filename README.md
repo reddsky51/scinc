@@ -16,7 +16,7 @@ el bienestar de la humanidad.
 Lo que presento es la estructura del modelo en libro. Un bosquejo del modelo, y debe ser tomado como tal.
 
  
- 
+ <body>
 Prólogo:
 De la episteme al logos (filosofía, epistemología de la psicología)
 
@@ -113,3 +113,4 @@ EPÍLOGO:
 -jung
  
 GLOSARIO
+</body>
