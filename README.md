@@ -47,9 +47,11 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
 1.1.2.2 Psicoterapia grupal
 1.1.2.2.1 Psicoterapia grupal con medicación (experimentación con ciencia física) (mencionar la ética psicodélica de Leary)
 1.1.2.2.2 Psicoterapia grupal con persona de control (persona sin medicar) (experimentación con ciencia física) (mencionar la ética psicodélica de Leary)
+
 1.2 Gestión y proyección del tiempo individual (coaching):
 1.2.1 Gestión del tiempo (coaching)
 1.2.2 Proyección del tiempo (¿objetivos a largo plazo?, ...)
+
 1.3 Bases de psicoterapia familiar:
 1.3.1 Mejoramiento del sistema familiar (teoría de sistemas, psicoterapia grupal, psicoterapia familiar)
 1.3.2 Bienestar social (trabajo social) (investigaciones de sociología)
@@ -60,12 +62,14 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
 
 2.1 Planos de la conciencia
 2.1.1 Plano concéntrico de niveles de conciencia (desarrollo-activación de la conciencia) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología), biología-etología-neurología-focos de atención, budismo))
+
 2.2 Plano neuro-analógico de conciencia (focos de atención)
 2.2.1 Focos de atención (neurología, budismo, tendencias polipsiquia-monopsiquia como condiciones de la experimentación polipsíquica (etología)):
 2.2.1.1 Def. de foco de atención (neurología-budismo)
 2.2.1.2 Disfuncionalidades del foco de atención centrado en el presente (evitación del vacío existencial y su sintomatología (budismo-psicoterapia general, desarrollo de la personalidad, mindfulness))
 2.2.1.3 Reorganización y centralización del foco de atención (terapia cognitivo-conductual/algoritmos, budismo, técnicas de meditación, mindfulness)
 2.2.1.4 Adiestramiento en reorganización y centralización del foco de atención (conductismo-algoritmos, técnicas de meditación, budismo, mindfulness)
+
 2.3 Plano temporal de la conciencia (descripciones neuropsicológicas y algorítmicas):
 2.3.1 Recuerdos
 2.3.2 Momento presente
@@ -83,6 +87,7 @@ PARTE 2
 3.1.1 Capacidad de recuperar recuerdos sin ser contaminado emocionalmente por ellos (test de evaluación de sensibilidad al trauma)
 3.1.2 Capacidad de vivir el momento presente a voluntad (evaluación de atención/mindfulness)
 3.1.3 Proyección futura a distintos plazos de forma ampliable (nivel individual) (planificación de proyectos u objetivos personales, coaching) (nivel grupal)
+
 3.2 Grupales:
 -(ver psicoterapia grupal y familiar)
 </p>
@@ -91,8 +96,11 @@ PARTE 2
 4. Ética:
 
 4.1 Introducción
+
 4.2 Humanismo ambientalista aplicado al modelo (tenemos que tomar en cuenta que queremos llegar a ser como sociedad, así no contaminaríamos el modelo psicológicamente)
+
 4.3 Ética psicodélica (Leary)
+
 4.4 Ética social (trabajo social, ubuntu, democracia parecidos en otras culturas)
 </p>
 
@@ -106,6 +114,7 @@ PARTE 2
 5.1.5 Desarrollo de conciencia
 -
 -
+
 5.2 Supraconciencia
 5.2.1 Def. De supraconciencia
 5.2.2 Evaluación de la supraconciencia (evaluar supraconciencia: mindfulness/flexibilidad mono-polipsíquia/inteligencia (raven ej)/desarrollo de conciencia (plano concéntrico de la conciencia))
@@ -115,10 +124,12 @@ PARTE 2
 6. Postulados posteriores
 
 6.1 Individualidad-colectivismo (sociología, trabajo social), def. de civilización (sociología) y función social del arte (antropología, sociología)
+
 6.2 Postulados sociológicos
 6.2.1 Sociedades abiertas y sociedades cerradas (sociología)
 6.2.2 Finalidad de las ciencias sociales (sociología, epistemología de las ciencias sociales)
 6.2.3 Rosa de leary como base para una macroestructura tribal-civilización (rosa de leary - alg.?)
+
 6.3 Algoritmos universales y sus modelos (relación entre algoritmos universales y sus modelos) (calendarios y horóscopos por cultura) (objetivo de estos modelos (¿predecir?))
 </p>
 
