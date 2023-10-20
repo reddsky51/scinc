@@ -18,6 +18,7 @@ Lo que presento es la estructura del modelo en libro. Un bosquejo del modelo, y 
  
 <body>
 <textarea>
+<p>
 Prólogo:
 De la episteme al logos (filosofía, epistemología de la psicología)
 
@@ -28,7 +29,9 @@ Introducción:
 -Dios? (Gestor del universo/información/realidad) (la 5ta fuerza física) (la naturaleza divina) (física-teología)
 -Envase de la mente (en última instancia, universo interno/externo explorado)
 -recomendaciones de lectura (leer ambas partes antes de la aplicación, ...)
+ </p>
  
+ <p>
 PARTE 1
 1. Integración psicológica (psicoterapia)
 -Def. de psicoterapia
@@ -52,7 +55,9 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
 1.3 Bases de psicoterapia familiar:
 1.3.1 Mejoramiento del sistema familiar (teoría de sistemas, psicoterapia grupal, psicoterapia familiar)
 1.3.2 Bienestar social (trabajo social) (investigaciones de sociología)
+</p>
 
+<p>
 2. Modelo de conciencia (proceso de activación neurológica, para generar capacidad de insight (no puedes ser más sensible al placer sin ser más sensible al dolor (Alan Watts) (evaluar desarrollo de sensibilidad perceptiva))):
 
 2.1 Planos de la conciencia
@@ -67,8 +72,13 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
 2.3.1 Recuerdos
 2.3.2 Momento presente
 2.3.3 Proyección futura
+</p>
 
+<p>
 PARTE 2
+</p>
+
+<p>
 3. Aplicación clínica y objetivos (psicología clínica, psicoterapia) (postulado: las personas podrían desarrollar sus propios recursos psicológicos para poder adaptarse y/o buscar su medio o entorno de desarrollo y seguridad) (desarrollo de personalidad) (jung):
 
 3.1 Individuales:
@@ -77,14 +87,18 @@ PARTE 2
 3.1.3 Proyección futura a distintos plazos de forma ampliable (nivel individual) (planificación de proyectos u objetivos personales, coaching) (nivel grupal)
 3.2 Grupales:
 -(ver psicoterapia grupal y familiar)
+</p>
 
+<p>
 4. Ética:
 
 4.1 Introducción
 4.2 Humanismo ambientalista aplicado al modelo (tenemos que tomar en cuenta que queremos llegar a ser como sociedad, así no contaminaríamos el modelo psicológicamente)
 4.3 Ética psicodélica (Leary)
 4.4 Ética social (trabajo social, ubuntu, democracia parecidos en otras culturas)
+</p>
 
+<p>
 5. Proyección del modelo (integración, flexibilidad y expansión de inteligencia, desarrollo de la atención basada en el modelo ético)
 
 5.1 Interacciones modelo de conciencia/integración psicológica:
@@ -97,7 +111,9 @@ PARTE 2
 5.2 Supraconciencia
 5.2.1 Def. De supraconciencia
 5.2.2 Evaluación de la supraconciencia (evaluar supraconciencia: mindfulness/flexibilidad mono-polipsíquia/inteligencia (raven ej)/desarrollo de conciencia (plano concéntrico de la conciencia))
+</p>
 
+<p>
 6. Postulados posteriores
 
 6.1 Individualidad-colectivismo (sociología, trabajo social), def. de civilización (sociología) y función social del arte (antropología, sociología)
@@ -106,14 +122,16 @@ PARTE 2
 6.2.2 Finalidad de las ciencias sociales (sociología, epistemología de las ciencias sociales)
 6.2.3 Rosa de leary como base para una macroestructura tribal-civilización (rosa de leary - alg.?)
 6.3 Algoritmos universales y sus modelos (relación entre algoritmos universales y sus modelos) (calendarios y horóscopos por cultura) (objetivo de estos modelos (¿predecir?))
+</p>
 
-
+<p>
 EPÍLOGO:
 -(asimov)
 -algunas personas crecen a la sombra, otras a la luz (jung)
 -jung"
- 
+ </p>
+<p>
 GLOSARIO
-
+</p>
 </textarea>
 </body>
