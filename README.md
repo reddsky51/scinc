@@ -15,9 +15,6 @@ en la realidad, con resultados y con productos físicamente percibibles, y los c
 el bienestar de la humanidad.
 Lo que presento es la estructura del modelo en libro. Un bosquejo del modelo, y debe ser tomado como tal.
 
-<html>
-<body>
-<textarea>
 <pre>
 <p>
 Prólogo:
@@ -135,6 +132,3 @@ EPÍLOGO:
 GLOSARIO
 </p>
 </pre>
-</textarea>
-</body>
-</html>
