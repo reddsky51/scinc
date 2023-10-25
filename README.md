@@ -1,6 +1,6 @@
 # scinc
  
- Bases de ps. trascendental
+ Bases de ps. trascendent@l
  
  nota:
  Este modelo y enfoque de psicología busca integrar distintas tradiciones y conocimientos que se 
