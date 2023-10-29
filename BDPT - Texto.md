@@ -4,20 +4,6 @@
  
  Bases de ps. trascendent@l
  
- nota:
- Este modelo y enfoque de psicología busca integrar distintas tradiciones y conocimientos que se 
- tienen sobre la psique.
-En sí mismo es un enfoque y como tal necesita experimentación para ser corroborado, con las implicancias 
-éticas del caso. 
-La base de corroboración experimental del modelo es a nivel de la ciencia física.
- Una base principal para el entendimiento de este y otros modelos en general, es el lenguaje; el lenguaje 
- crea el entorno verbal de la persona, algo que ha de ser tomado en cuenta por el lector.
-Mi hipótesis es que, luego de la experimentación, se produzcan resultados satisfactorios... sobre cambios... 
-en la realidad, con resultados y con productos físicamente percibibles, y los conocimientos se usen para 
-el bienestar de la humanidad. Su finalidad en ultima instancia es mejorar el bienestar humano y 
-verlo desde una perspectiva más amplia, en la época contemporánea.
-Lo que presento es la estructura del modelo en libro. Un bosquejo del modelo, y debe ser tomado como tal.
-Postulado: las personas podrían desarrollar sus propios recursos psicológicos para poder adaptarse y/o buscar su medio o entorno de desarrollo y seguridad.
 
 <pre>
 <p>
