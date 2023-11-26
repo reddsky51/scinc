@@ -86,7 +86,7 @@ PARTE 2
 3. Aplicación clínica y objetivos (psicología clínica, psicoterapia) (postulado: las personas podrían desarrollar sus propios recursos psicológicos para poder adaptarse y/o buscar su medio o entorno de desarrollo y seguridad) (desarrollo de personalidad) (jung):
 
 3.1 Individuales:
-3.1.1 Capacidad de recuperar recuerdos sin ser contaminado emocionalmente por ellos (test de evaluación de sensibilidad al trauma)
+3.1.1 Capacidad de recuperar recuerdos sin ser contaminado emocionalmente por ellos (desensibilización sistémica, test de evaluación de sensibilidad al trauma)
 3.1.2 Capacidad de vivir el momento presente a voluntad (evaluación de atención/mindfulness)
 3.1.3 Proyección futura a distintos plazos de forma ampliable (nivel individual) (planificación de proyectos u objetivos personales, coaching) (nivel grupal)
 
@@ -99,18 +99,18 @@ PARTE 2
 
 4.1 Introducción
 
-4.2 Humanismo ambientalista aplicado al modelo (tenemos que tomar en cuenta que queremos llegar a ser como sociedad, así no contaminaríamos el modelo psicológicamente)
+4.2 Humanismo ambientalista aplicado al modelo (tenemos que tomar en cuenta que queremos llegar a ser como sociedad)
 
 4.3 Ética psicodélica (Leary)
 
-4.4 Ética social (trabajo social, ubuntu, democracia parecidos en otras culturas)
+4.4 Ética social (trabajo social, ubuntu, democracia (parecidos en otras culturas))
 </p>
 
 <p>
 5. Proyección del modelo (integración, flexibilidad y expansión de inteligencia, desarrollo de la atención basada en el modelo ético)
 
 5.1 Interacciones modelo de conciencia/integración psicológica:
-5.1.2 Algoritmos psíquicos
+5.1.2 Algoritmos psicológicos
 5.1.3 Desarrollo de personalidad
 5.1.4 Desarrollo de inteligencia
 5.1.5 Desarrollo de conciencia
@@ -132,7 +132,7 @@ PARTE 2
 6.2.2 Finalidad de las ciencias sociales (sociología, epistemología de las ciencias sociales)
 6.2.3 Rosa de leary como base para una macroestructura tribal-civilización (rosa de leary - alg.?)
 
-6.3 Algoritmos universales y sus modelos (relación entre algoritmos universales y sus modelos) (calendarios y horóscopos por cultura) (objetivo de estos modelos (¿predecir?))
+6.3 Algoritmos universales y sus modelos (leyes universales sistematizadas y sus representaciones)(relación entre algoritmos universales y sus modelos(representaciones))(calendarios y horóscopos por cultura ej) (objetivo de estos modelos (¿predecir?))
 </p>
 
 <p>
