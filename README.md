@@ -28,7 +28,7 @@ Introducción:
 -prepsicóticos y preepilépticos (inv. De los 60’s ejemplo)
 -Etología (tendencias monopsiquia-polipsiquia) (evaluar)
 -La mente (conciencia) - verdad (realidad) es líquida (nuestro inconsciente está conectado con el inconsciente universal (dios)) (teología) (jung, inconsciente colectivo).
--Dios? (Gestor del universo/información/realidad) (la 5ta fuerza física) (la naturaleza divina) (física-teología)
+-Dios? (Gestor del universo/información/realidad) (la naturaleza divina) (física-teología)
 -Envase de la mente (en última instancia, universo interno/externo explorado)
 -recomendaciones de lectura (leer ambas partes antes de la aplicación, ...)
  </p>
