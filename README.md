@@ -23,7 +23,7 @@ Prólogo:
 De la episteme al logos (filosofía, epistemología de la psicología)
 
 Introducción:
--prepsicóticos y preepilépticos (inv. De los 60’s ejemplo)
+-síntomatología (prepsicóticos y preepilépticos ej) (inv. De los 60’s ej)
 -Etología (tendencias monopsiquia-polipsiquia) (evaluar)
 -La mente (conciencia) - verdad (realidad) es líquida (nuestro inconsciente está conectado con el inconsciente universal (dios)) (teología) (jung, inconsciente colectivo).
 -Dios? (Gestor del universo/información/realidad) (la naturaleza divina) (física-teología)
