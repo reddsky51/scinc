@@ -114,6 +114,7 @@ PARTE 2
 5.1.3 Desarrollo de personalidad
 5.1.4 Desarrollo de inteligencia
 5.1.5 Desarrollo de conciencia
+5.1.6 Desarrollo de atención
 -
 -
 
