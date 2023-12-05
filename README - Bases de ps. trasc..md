@@ -7,7 +7,7 @@
  nota:
  Este modelo y enfoque de psicología busca integrar distintas tradiciones y conocimientos que se 
  tienen sobre la psique.
-En sí mismo es un enfoque y como tal necesita experimentación para ser corroborado, con las implicaciones 
+En sí mismo es un enfoque y como tal necesita experimentación para ser corroborado con las implicaciones 
 éticas del caso. 
 La base de corroboración experimental del modelo es a nivel de la ciencia física y la psicología clínica.
  Una base principal para el entendimiento de este y otros modelos en general, es el lenguaje; el lenguaje 
