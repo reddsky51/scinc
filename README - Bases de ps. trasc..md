@@ -9,7 +9,7 @@
  tienen sobre la psique.
 En sí mismo es un enfoque y como tal necesita experimentación para ser corroborado, con las implicaciones 
 éticas del caso. 
-La base de corroboración experimental del modelo es a nivel de la ciencia física.
+La base de corroboración experimental del modelo es a nivel de la ciencia física y la psicología clínica.
  Una base principal para el entendimiento de este y otros modelos en general, es el lenguaje; el lenguaje 
  crea el entorno verbal de la persona, algo que ha de ser tomado en cuenta por el lector.
 Su finalidad en ultima instancia es mejorar el bienestar humano y 
