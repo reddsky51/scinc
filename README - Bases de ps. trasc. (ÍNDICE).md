@@ -25,7 +25,7 @@ De la episteme al logos (filosofía, epistemología de la psicología)
 Introducción:
 -síntomatología neuro-psicológica (genética y epigenética (desarollo en ambientes de alto estrés))(prepsicóticos y preepilépticos ej) (inv. De los 60’s ej)
 -Etología (tendencias monopsiquia-polipsiquia) (evaluar)
--La mente (conciencia) - verdad (realidad) es líquida (nuestro inconsciente está conectado con el inconsciente universal (dios)) (teología) (jung, inconsciente colectivo).
+-La mente (conciencia) - verdad (realidad) es líquida (nuestro inconsciente está conectado con el inconsciente universal (dios)) (teología) (jung, inconsciente colectivo)(el hombre sufre por su propio lenguaje).
 -Dios? (Gestor del universo/información/realidad) (la naturaleza divina) (física-teología)
 -Envase de la mente (en última instancia, universo interno/externo explorado,antropología-neurología, sobre el alma (sócrates))
 -recomendaciones de lectura (leer ambas partes antes de la aplicación, ...)
