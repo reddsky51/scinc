@@ -113,12 +113,12 @@ PARTE 2
 5.1.1 Algoritmos psicológicos
 5.1.2 Desarrollo de personalidad
 5.1.3 Desarrollo de inteligencia
-5.1.4 Desarrollo de conciencia
+5.1.4 Desarrollo de conciencia (desarrollo y estabilidad (sensibilidad asertiva y tcc) de empatía)
 5.1.5 Desarrollo de atención
 5.1.6 Desarrollo de funcionalidad
 -
 -
-
+ 
 5.2 Supraconciencia
 5.2.1 Def. De supraconciencia
 5.2.2 Evaluación de la supraconciencia (evaluar supraconciencia: mindfulness/flexibilidad mono-polipsíquia/inteligencia (raven ej)/desarrollo de conciencia (plano concéntrico de la conciencia))
