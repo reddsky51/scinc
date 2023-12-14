@@ -86,7 +86,7 @@ PARTE 2
 3. Aplicación clínica y objetivos (psicología clínica, psicoterapia) (postulado: las personas podrían desarrollar sus propios recursos psicológicos para poder adaptarse y/o buscar su medio o entorno de desarrollo y seguridad) (desarrollo de personalidad) (jung):
 
 3.1 Individuales:
-3.1.1 Capacidad de recuperar recuerdos sin ser contaminado emocionalmente por ellos (desensibilización sistémica, test de evaluación de sensibilidad al trauma)
+3.1.1 Capacidad de recuperar recuerdos sin ser contaminado emocionalmente por ellos (desensibilización sistémica/psicoterapia (desarrollo de personalidad), test de evaluación de sensibilidad al trauma)
 3.1.2 Capacidad de vivir el momento presente a voluntad (evaluación de atención/mindfulness)
 3.1.3 Proyección futura a distintos plazos de forma ampliable (nivel individual) (planificación de proyectos u objetivos personales, coaching) (nivel grupal)
 
