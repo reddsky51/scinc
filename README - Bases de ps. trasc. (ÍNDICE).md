@@ -64,7 +64,10 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
 
 2.1 Planos de la conciencia
 2.1.1 Plano concéntrico de niveles de conciencia (desarrollo-activación de la conciencia) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología), biología-etología-neurología-focos de atención, budismo))
-
+2.1.1.1 Plano de la experiencia perceptiva en tiempo presente bajo estímulos psicoactivos
+ Plano x: depresores-estimulantes
+ Plano y: antipsicóticos-psicodélicos
+ 
 2.2 Plano neuro-analógico de conciencia (focos de atención)
 2.2.1 Focos de atención (neurología, budismo, tendencias polipsiquia-monopsiquia como condiciones de la experimentación polipsíquica (etología)):
 2.2.1.1 Def. de foco de atención (neurología-budismo)
