@@ -11,7 +11,7 @@ En sí mismo es un enfoque y como tal necesita experimentación para ser corrobo
 éticas del caso. 
 La base de corroboración experimental del modelo es a nivel de la ciencia física y la psicología clínica.
  Una base principal para el entendimiento de este y otros modelos en general, es el lenguaje; el lenguaje 
- crea el entorno verbal de la persona, algo que ha de ser tomado en cuenta por el lector.
+ crea (y ha creado) el entorno verbal de la persona, algo que ha de ser tomado en cuenta por el lector.
 Su finalidad en última instancia es mejorar el bienestar humano y 
 verlo desde una perspectiva más amplia, en la época contemporánea.
 Lo que se presenta aquí es la estructura del modelo en libro. Un bosquejo del modelo, y debe ser tomado como tal.
