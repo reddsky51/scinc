@@ -60,13 +60,16 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
 </p>
 
 <p>
-2. Modelo de conciencia (proceso de activación neurológica, para generar capacidad de insight (no puedes ser más sensible al placer sin ser más sensible al dolor (Alan Watts) (evaluar desarrollo de sensibilidad perceptiva))):
+2. Modelo de conciencia (proceso de activación neurológica, para generar capacidad de insight (no puedes ser más sensible al placer sin ser más sensible al dolor (Alan Watts) (evaluar desarrollo de sensibilidad perceptiva/empatía))):
 
 2.1 Planos de la conciencia
 2.1.1 Plano concéntrico de niveles de conciencia (desarrollo-activación de la conciencia) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología), biología-etología-neurología-focos de atención, budismo))
-2.1.1.1 Plano de la experiencia perceptiva en tiempo presente bajo estímulos psicoactivos
- Plano x: depresores-estimulantes
- Plano y: antipsicóticos-psicodélicos
+2.1.1.1 Plano de la experiencia perceptiva en tiempo presente bajo estímulos psicoactivos (Focos/interacción perceptiva)
+ -Def. de focos de percepción-interacción perceptiva
+ -Plano x: depresores-estimulantes
+ -Plano y: antipsicóticos-psicodélicos
+ -Centro: Sistema endocanabinóide (Circuito 5 de RAW/Leary)
+ -Interacciones y percepción fuera del sistema por default (ej. sinestesia, etc...)
  
 2.2 Plano neuro-analógico de conciencia (focos de atención)
 2.2.1 Focos de atención (neurología, budismo, tendencias polipsiquia-monopsiquia como condiciones de la experimentación polipsíquica (etología)):
