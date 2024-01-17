@@ -63,9 +63,9 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
 2. Modelo de conciencia (proceso de activación neurológica, para generar capacidad de insight (no puedes ser más sensible al placer sin ser más sensible al dolor (Alan Watts)(desarrollo de conciencia/personalidad y técnicas de "gracia autoalusiva" de Gringerg (1977), (evaluar desarrollo de sensibilidad perceptiva/empatía))):
 
 2.1 Planos de la conciencia
-2.1.1 Plano concéntrico de niveles de conciencia (desarrollo-activación de la conciencia) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología), biología-etología-neurología-focos de atención, budismo))
+2.1.1 Plano concéntrico de niveles de conciencia (desarrollo-activación de la conciencia) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología-lenguaje-sociolingüística), biología-etología-neurología-focos de atención, budismo))
 2.1.1.1 Plano de la experiencia perceptiva en tiempo presente bajo estímulos psicoactivos (estímulo psicoactivo: estímulo externo al individuo que interactúa con la percepción | Focos de percepción/interacción perceptiva)
- -Def. de focos de percepción (basado en ESPOLEA org)
+ -Def. de focos de percepción (plano basado en ESPOLEA org)
  -Plano x: depresores-estimulantes
  -Plano y: antipsicóticos-psicodélicos
  -Centro: Sistema endocanabinóide (Circuito 5 de RAW/Leary)
@@ -73,7 +73,7 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
  -Interacciones y percepción fuera del sistema por default (ej. sinestesia, etc...)
  
 2.2 Plano neuro-analógico de conciencia (focos de atención)
-2.2.1 Focos de atención (neurología, budismo, tendencias polipsiquia-monopsiquia como condiciones de la experimentación polipsíquica (etología)):
+2.2.1 Focos de atención (neurología, budismo, tendencias polipsiquia-monopsiquia como condiciones de la experiencia humana (etología)):
 2.2.1.1 Def. de foco de atención (neurología-budismo)
 2.2.1.2 Disfuncionalidades del foco de atención centrado en el presente (evitación del vacío existencial y su sintomatología (budismo-psicoterapia general, desarrollo de la personalidad, mindfulness))
 2.2.1.3 Reorganización y centralización del foco de atención (terapia cognitivo-conductual/algoritmos, budismo, técnicas de meditación, mindfulness)
@@ -119,7 +119,7 @@ PARTE 2
 5.1 Interacciones modelo de conciencia/integración psicológica:
 5.1.1 Algoritmos psicológicos (desarrollo de personalidad-tcc,...)
 5.1.2 Desarrollo de personalidad
- -Integración psicológica (proceso de individuación (estadío del espejo,...))
+ -Integración psicológica (proceso de individuación (estadío del espejo (Lacan),...))
 5.1.3 Desarrollo de inteligencia
 5.1.4 Desarrollo de conciencia (desarrollo y estabilidad (sensibilidad asertiva y tcc) de empatía,...)
 5.1.5 Desarrollo de atención
@@ -141,7 +141,7 @@ PARTE 2
 6.2.1 Sociedades abiertas y sociedades cerradas (sociología)
 6.2.2 Finalidad de las ciencias sociales (sociología, epistemología de las ciencias sociales)
 6.2.3 Rosa de leary como base para una macroestructura tribal-civilización (rosa de leary - alg.?)
- -Ing. de alg.: ♂ (rosa de leary) ♀ = 🔁
+ -Ingreso de alg. en red neuronal inf.: C1 (rosa de leary) C2 = 🔁 (algebra lineal, ...)
 
 6.3 Algoritmos universales y sus modelos (leyes universales sistematizadas y sus representaciones)(relación entre algoritmos universales y sus modelos(representaciones))(calendarios y horóscopos por cultura ej) (objetivo de estos modelos (¿predecir?))
 </p>
