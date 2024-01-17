@@ -47,7 +47,7 @@ Ciclo de la experiencia psicodélica
 1.1.2.1.2 Psicoterapia personal sin medicar
 Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (establecer diferencias)
 1.1.2.2 Psicoterapia grupal
-1.1.2.2.1 Psicoterapia grupal con medicación (experimentación con ciencia física) (mencionar la ética psicodélica de Leary)
+1.1.2.2.1 Psicoterapia grupal con medicación (evaluación con ciencia física) (mencionar la ética psicodélica de Leary)
 1.1.2.2.2 Psicoterapia grupal con persona de control (persona sin medicar) (experimentación con ciencia física) (mencionar la ética psicodélica de Leary)
 
 1.2 Gestión y proyección del tiempo individual (coaching):
@@ -60,10 +60,10 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
 </p>
 
 <p>
-2. Modelo de conciencia (proceso de activación neurológica, para generar capacidad de insight (sensibilidad emocional según Alan Watts. (desarrollo de conciencia/personalidad y técnicas de "gracia autoalusiva" de Gringerg (1977), (desarrollo de sensibilidad perceptiva/empatía))):
+2. Modelo de conciencia (activación neurológica (capacidad de insight) (sensibilidad emocional según Alan Watts. (desarrollo de conciencia/personalidad y técnicas de "gracia autoalusiva" de Gringerg (1977))):
 
 2.1 Planos de la conciencia
-2.1.1 Plano concéntrico de niveles de conciencia (desarrollo-activación de la conciencia) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología-lenguaje-sociolingüística), biología-etología-neurología-focos de atención, budismo))
+2.1.1 Plano concéntrico de niveles de conciencia (desarrollo-activación de la conciencia) (desarrollo de sensibilidad perceptiva/empatía ej.) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología-lenguaje-sociolingüística), biología-etología-neurología-focos de atención, budismo))
 2.1.1.1 Plano de la experiencia perceptiva en tiempo presente bajo estímulos psicoactivos (estímulo psicoactivo: estímulo externo al individuo que interactúa con la percepción | Focos de percepción/interacción perceptiva)
  -Def. de focos de percepción (plano basado en ESPOLEA org)
  -Plano x: estímulos psicoactivos depresores - estímulos psicoactivos estimulantes
