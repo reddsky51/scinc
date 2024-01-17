@@ -68,7 +68,7 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
  -Def. de focos de percepción (plano basado en ESPOLEA org)
  -Plano x: estímulos psicoactivos depresores - estímulos psicoactivos estimulantes
  -Plano y: estímulos psicoactivos antipsicóticos (efecto mozart. ej) - estímulos psicoactivos psicodélicos
- -Centro: Sistema endocanabinóide (Circuito 5 en modelo de conciencia RAW/Leary)
+ -Centro: Sistema endocanabinóide (Circuito 5: Modelo de conciencia RAW/Leary)
  -Interacción perceptiva:
  -Interacciones y percepción fuera del sistema por default (neurología)(ej. sinestesia, etc...)
  
