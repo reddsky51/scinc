@@ -106,7 +106,7 @@ PARTE 2
 
 4.1 Introducción
 
-4.2 Humanismo ambientalista aplicado al modelo (tenemos que tomar en cuenta que queremos llegar a ser como sociedad)
+4.2 Humanismo ambientalista aplicado al modelo (tenemos que tomar en cuenta que queremos llegar a ser como sociedad globalizada)
 
 4.3 Ética psicodélica (Leary)
 
