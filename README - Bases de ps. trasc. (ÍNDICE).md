@@ -63,7 +63,7 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
 2. Modelo de conciencia (activación neurológica (capacidad de insight) (sensibilidad emocional según Alan Watts. (desarrollo de conciencia/personalidad y técnicas de "gracia autoalusiva" de Gringerg (1977))):
 
 2.1 Planos de la conciencia
-2.1.1 Plano concéntrico de niveles de conciencia (Modelo de conciencia de 8 circuitos de Leary) (desarrollo-activación de la conciencia) (desarrollo de sensibilidad perceptiva/empatía ej.) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología-lenguaje-sociolingüística), biología-etología-neurología-focos de atención, budismo))
+2.1.1 Plano concéntrico de niveles de conciencia (Modelo de conciencia de 8 circuitos de Leary/RAW)(desarrollo-activación de la conciencia) (desarrollo de sensibilidad perceptiva/empatía ej.) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología-lenguaje-sociolingüística), biología-etología-neurología-focos de atención, budismo))
 2.1.1.1 Plano de la experiencia perceptiva en tiempo presente bajo estímulos psicoactivos (estímulo psicoactivo: estímulo externo al individuo que interactúa con la percepción | Focos de percepción/interacción perceptiva)
  -Def. de focos de percepción (plano basado en ESPOLEA org)
  -Plano x: estímulos psicoactivos depresores - estímulos psicoactivos estimulantes
