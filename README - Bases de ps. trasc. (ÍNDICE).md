@@ -70,7 +70,7 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
  -Plano y: antipsicóticos-psicodélicos
  -Centro: Sistema endocanabinóide (Circuito 5 de RAW/Leary)
  -Interacción perceptiva:
- -Interacciones y percepción fuera del sistema por default (ej. sinestesia, etc...)
+ -Interacciones y percepción fuera del sistema por default (neurología)(ej. sinestesia, etc...)
  
 2.2 Plano neuro-analógico de conciencia (focos de atención)
 2.2.1 Focos de atención (neurología, budismo, tendencias polipsiquia-monopsiquia como condiciones de la experiencia humana (etología)):
