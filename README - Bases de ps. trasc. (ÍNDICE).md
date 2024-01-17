@@ -60,7 +60,7 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
 </p>
 
 <p>
-2. Modelo de conciencia (proceso de activación neurológica, para generar capacidad de insight (no puedes ser más sensible al placer sin ser más sensible al dolor (Alan Watts)(desarrollo de conciencia/personalidad y técnicas de "gracia autoalusiva" de Gringerg (1977), (evaluar desarrollo de sensibilidad perceptiva/empatía))):
+2. Modelo de conciencia (proceso de activación neurológica, para generar capacidad de insight (sensibilidad emocional según Alan Watts. (desarrollo de conciencia/personalidad y técnicas de "gracia autoalusiva" de Gringerg (1977), (desarrollo de sensibilidad perceptiva/empatía))):
 
 2.1 Planos de la conciencia
 2.1.1 Plano concéntrico de niveles de conciencia (desarrollo-activación de la conciencia) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología-lenguaje-sociolingüística), biología-etología-neurología-focos de atención, budismo))
