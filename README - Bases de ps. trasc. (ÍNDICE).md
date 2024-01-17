@@ -60,8 +60,9 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
 </p>
 
 <p>
-2. Modelo de conciencia (activación neurológica (capacidad de insight) (sensibilidad emocional según Alan Watts. (desarrollo de conciencia/personalidad y técnicas de "gracia autoalusiva" de Gringerg (1977))):
-
+2. Modelo de conciencia:
+-(capacidad de insight) (desarrollo de conciencia/personalidad, técnicas de "gracia autoalusiva" de Gringerg (1977)))
+ 
 2.1 Planos de la conciencia
 2.1.1 Plano concéntrico de niveles de conciencia (Modelo de conciencia de 8 circuitos de Leary/RAW)(desarrollo-activación de la conciencia) (desarrollo de sensibilidad perceptiva/empatía ej.) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología-lenguaje-sociolingüística), biología-etología-neurología-focos de atención, budismo))
 2.1.1.1 Plano de la experiencia perceptiva en tiempo presente bajo estímulos psicoactivos (estímulo psicoactivo: estímulo externo al individuo que interactúa con la percepción | Focos de percepción/interacción perceptiva)
@@ -93,7 +94,7 @@ PARTE 2
 3. Aplicación clínica y objetivos (psicología clínica, psicoterapia) (postulado: las personas podrían desarrollar sus propios recursos psicológicos para poder adaptarse y/o buscar su medio o entorno de desarrollo y seguridad) (desarrollo de personalidad) (jung):
 
 3.1 Individuales:
-3.1.1 Capacidad de recuperar recuerdos sin ser contaminado emocionalmente por ellos (desensibilización sistémica/psicoterapia (desarrollo de personalidad), test de evaluación de sensibilidad al trauma)
+3.1.1 Capacidad de recuperar recuerdos sin ser contaminado emocionalmente por ellos (desensibilización sistémica/psicoterapia (desarrollo de personalidad), test de evaluación de sensibilidad)
 3.1.2 Capacidad de vivir el momento presente a voluntad (evaluación de atención/mindfulness)
 3.1.3 Proyección futura a distintos plazos de forma ampliable (nivel individual) (planificación de proyectos u objetivos personales, coaching) (nivel grupal)
 
@@ -121,8 +122,8 @@ PARTE 2
 5.1.2 Desarrollo de personalidad
  -Integración psicológica (proceso de individuación (estadío del espejo (Lacan),...))
 5.1.3 Desarrollo de inteligencia
-5.1.4 Desarrollo de conciencia (desarrollo y estabilidad (sensibilidad asertiva y tcc) de empatía,...)
-5.1.5 Desarrollo de atención
+5.1.4 Desarrollo de conciencia (desarrollo y estabilidad (sensibilidad asertiva y tcc) de empatía...)
+5.1.5 Desarrollo de atención (evaluación de atención, ...)
 5.1.6 Desarrollo de funcionalidad
 -
 -
