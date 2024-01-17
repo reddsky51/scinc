@@ -66,9 +66,9 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
 2.1.1 Plano concéntrico de niveles de conciencia (desarrollo-activación de la conciencia) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología-lenguaje-sociolingüística), biología-etología-neurología-focos de atención, budismo))
 2.1.1.1 Plano de la experiencia perceptiva en tiempo presente bajo estímulos psicoactivos (estímulo psicoactivo: estímulo externo al individuo que interactúa con la percepción | Focos de percepción/interacción perceptiva)
  -Def. de focos de percepción (plano basado en ESPOLEA org)
- -Plano x: depresores-estimulantes
- -Plano y: antipsicóticos-psicodélicos
- -Centro: Sistema endocanabinóide (Circuito 5 de RAW/Leary)
+ -Plano x: estímulos psicoactivos depresores - estímulos psicoactivos estimulantes
+ -Plano y: estímulos psicoactivos antipsicóticos (efecto mozart. ej) - estímulos psicoactivos psicodélicos
+ -Centro: Sistema endocanabinóide (Circuito 5 en modelo de conciencia RAW/Leary)
  -Interacción perceptiva:
  -Interacciones y percepción fuera del sistema por default (neurología)(ej. sinestesia, etc...)
  
