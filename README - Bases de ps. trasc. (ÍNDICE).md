@@ -28,7 +28,7 @@ Introducción:
 -La mente (conciencia) - verdad (realidad) es líquida (nuestro inconsciente está conectado con el inconsciente universal (dios)) (teología) (jung, inconsciente colectivo)(el hombre sufre por su propio lenguaje).
 -Dios? (Gestor del universo/información/realidad) (la naturaleza divina) (física-teología)
 -Envase de la mente (en última instancia, universo interno/externo explorado,antropología-neurología, sobre el alma (sócrates))
--recomendaciones de lectura (leer ambas partes antes de la aplicación, ...)
+-recomendaciones de lectura (leer ambas partes antes, ...)
  </p>
  
  <p>
