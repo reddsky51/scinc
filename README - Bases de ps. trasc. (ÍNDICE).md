@@ -14,7 +14,7 @@ La base de corroboración experimental del modelo es a nivel de la ciencia físi
  crea (y ha creado) el entorno verbal de la persona, algo que ha de ser tomado en cuenta por el lector.
 Su finalidad en última instancia es mejorar el bienestar humano y 
 verlo desde una perspectiva más amplia en la época contemporánea.
-Lo que se presenta aquí es la estructura del modelo en libro. Un bosquejo del modelo, y debe ser tomado como tal.
+Lo que se presenta aquí es la estructura del modelo en libro. Un bosquejo del modelo.
 Postulado: Las personas podrían desarrollar sus propios recursos psicológicos para poder adaptarse y/o buscar su medio o entorno de desarrollo y seguridad.
 
 <pre>
