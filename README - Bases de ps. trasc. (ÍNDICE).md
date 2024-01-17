@@ -36,7 +36,7 @@ PARTE 1
 1. Integración psicológica (psicoterapia)
 -Def. de psicoterapia
 
-1.1 Bases de psicoterapia (de uso exclusivo del vínculo terapéutico):
+1.1 Bases de psicoterapia (de uso del vínculo terapéutico):
 1.1.1 Uso apropiado de medicamentos (con intención (hinduismo - set and setting (lugar y contexto))) y gestión del placer:
 1.1.1.1 Uso de medicamentos (psicofarmacología, hinduismo, set and setting (lugar y contexto))
 1.1.1.2 Gestión del placer (neurología, hedonismo, gestión del tiempo, hinduismo)
