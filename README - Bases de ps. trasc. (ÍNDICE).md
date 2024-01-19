@@ -4,7 +4,7 @@
  
  Bases de ps. trascendent@l
  
-epistemología y filosofía de la psicología
+-epistemología y filosofía de la psicología-
 
  nota:
  Este modelo y enfoque de psicología busca integrar distintas tradiciones y conocimientos que se 
