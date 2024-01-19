@@ -121,7 +121,7 @@ PARTE 2
 
 5.1 Interacciones modelo de conciencia/integración psicológica:
 5.1.1 Algoritmos psicológicos (desarrollo de personalidad-tcc,...)
-
+5.1.2 Desarrollo de personalidad
  -Integración psicológica (proceso de individuación (estadío del espejo (Lacan),...))
 5.1.3 Desarrollo de inteligencia
 5.1.4 Desarrollo de conciencia (desarrollo y estabilidad (sensibilidad asertiva y tcc) de empatía, Modelo de conciencia de 8 circuitos de Leary/RAW...)
