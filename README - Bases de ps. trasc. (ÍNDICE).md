@@ -140,12 +140,13 @@ PARTE 2
 6.1 Individualidad-colectivismo (sociología, trabajo social), def. de civilización (sociología) y función social del arte (antropología, sociología)
 
 6.2 Postulados sociológicos
-6.2.1 Sociedades abiertas y sociedades cerradas (sociología)
+6.2.1 Sociedades abiertas y sociedades cerradas (sociología (Karl Popper))
 6.2.2 Finalidad de las ciencias sociales (sociología, epistemología de las ciencias sociales)
 6.2.3 Rosa de leary como base para una macroestructura tribal-civilización (rosa de leary - alg.?)
  -Ingreso de alg. en red neuronal inf.: C1 (rosa de leary) C2 = 🔁 (algebra l., ...)
 
-6.3 Algoritmos universales y sus modelos (leyes universales sistematizadas y sus representaciones)(relación entre algoritmos universales y sus modelos(representaciones))(calendarios y horóscopos por cultura ej) (objetivo de estos modelos (¿predecir?))
+6.3 Algoritmos universales y sus modelos (leyes universales sistematizadas y sus representaciones)
+ (relación entre algoritmos universales y sus modelos(representaciones))(calendarios y horóscopos por cultura ej) (objetivo de estos modelos (¿predecir?))
 </p>
 
 <p>
