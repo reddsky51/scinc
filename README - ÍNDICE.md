@@ -146,6 +146,10 @@ PARTE 2
 6.3 Algoritmos universales y sus modelos (leyes universales sistematizadas y sus representaciones)
  (relación entre algoritmos universales y sus modelos(representaciones))(calendarios y horóscopos por cultura ej) (objetivo de estos modelos (¿predecir?))
 </p>
+-el k.
+-rep. art.
+-sig.
+
 
 <p>
 EPÍLOGO:
