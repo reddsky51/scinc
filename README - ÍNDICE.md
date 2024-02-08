@@ -9,9 +9,8 @@ En sí mismo es un enfoque y como tal necesita experimentación para ser corrobo
 éticas del caso. 
 La base de corroboración experimental del modelo es a nivel de la ciencia física y la psicología clínica.
  Una base principal para el entendimiento de este y otros modelos en general, es el lenguaje; el lenguaje 
- crea (y ha creado) el entorno verbal de la persona, algo que ha de ser tomado en cuenta por el lector.
-Su finalidad en última instancia es mejorar el bienestar humano y 
-verlo desde una perspectiva más amplia en la época contemporánea.
+ crea (y ha creado) el entorno verbal de la persona, algo que ha de ser tomado en cuenta por el lector. Otras de las funciones de este modelo son despatologizar y añadir una estructura base de la conciencia como nodo-observador en el modelo de física actual. Y su finalidad en última instancia es mejorar el bienestar humano y 
+verlo desde una perspectiva más amplia.
 Lo que se presenta aquí es la estructura del modelo en libro. Un bosquejo del modelo.
 
 
