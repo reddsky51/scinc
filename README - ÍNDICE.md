@@ -22,7 +22,7 @@ Prólogo:
 De la episteme al logos (filosofía, epistemología de la psicología)
 
 Introducción:
--sintomatología neuro-psicológica (genética y epigenética (estabilidad genética, inestabilidad genética (desarrollo en ambientes de alto estrés) <-> entorno))(prepsicóticos y preepilépticos ej) (inv. De los 60’s ej)
+-sintomatología neuro-psicológica (genética y epigenética (estabilidad genética, inestabilidad genética <-> entorno))(prepsicóticos y preepilépticos ej) (inv. De los 60’s ej)
 -Etología (tendencias monopsiquia-polipsiquia) (evaluar)
 -La mente (conciencia) - verdad (realidad) es líquida (nuestro inconsciente está conectado con el inconsciente universal (dios)) (teología) (jung, inconsciente colectivo)(el hombre sufre por su propio lenguaje).
 -Dios? (Gestor del universo/información/realidad) (la naturaleza divina) (física-teología)
