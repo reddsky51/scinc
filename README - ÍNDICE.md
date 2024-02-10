@@ -147,7 +147,7 @@ PARTE 2
 </p>
 -el k.
 -rep. art.
--sig.
+-sig.(?)
 
 
 <p>
