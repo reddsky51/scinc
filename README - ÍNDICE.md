@@ -156,7 +156,7 @@ antiguo testamento:
 nuevo testamento:
 (Jesús - el cristo)
 
-[...]
+[Ascensión tecnológica masculina + Manutención Tribal Femenina [AUMENTO DE CAPITALES: TECNOLÓGICO - GENÉTICO = VITAL]
 
 -Ciclos de Día y Ciclos de Noche por Género (HEMISFERIOS CEREBRALES)
 
