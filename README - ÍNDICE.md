@@ -142,11 +142,16 @@ PARTE 2
 6.2.3 Rosa de leary como base para una macroestructura tribal-civilización (rosa de leary - alg.?)
  -Ingreso de alg. en red neuronal inf.: C1 (rosa de leary) C2 = 🔁 (algebra l., ...)
 
-</p>
 
-Terrestres:
+PARTE 3: 
 
-antiguo testamento:
+VIBRACIONES Terrestres (Desarrollo histórico planetario - humano y biológico):
+
+~Espiritualidad humana:
+-FILOSOFÍA y RELIGIONES-
+
+ 
+-antiguo testamento:
 -el k.
 -rep. art.
 -sig.(?)
@@ -154,6 +159,7 @@ antiguo testamento:
 nuevo testamento:
 (Jesús - el cristo)
 
+-
 
  -Ciclos de Día y Ciclos de Noche por Género (HEMISFERIOS CEREBRALES - Lateralidad Hemisferial)
 
@@ -163,13 +169,16 @@ nuevo testamento:
 .
 .
 
+PARTE 4:
+EXPANSIÓN [ET]:
+ 
 -EXPANSIÓN HUMANA + ENTORNO:
 Tecnológica masculina + Manutención Tribal Femenina [AUMENTO DE CAPITALES: TECNOLÓGICO ♂ - GENÉTICO ♀ + VITAL ENTORNO]
 
  
-[EXTRATERRESTRES HUMANO-SOLARES]
+[P. EXTRATERRESTRES HUMANO-SOLARES]
 
- 6.3 FORMAS universales (filosofía,...), leyes físicas y sus modelos
+ 6.3 FORMAS universales (filosofía,...), leyes físicas y sus modelos por planeta
 -Modelos físicos
 
  
@@ -184,7 +193,7 @@ EPÍLOGO?:
 -transcurso histórico por planetas
 -el alma
 -sobre la inmortalidad del alma...
--transcurso larvario humano por planetas
+-desarrollo humano+entorno <-> planetas
 [EXPANSIVIDAD HUMANA + ENTORNO]
 
 </p>
