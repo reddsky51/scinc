@@ -142,8 +142,6 @@ PARTE 2
 6.2.3 Rosa de leary como base para una macroestructura tribal-civilización (rosa de leary - alg.?)
  -Ingreso de alg. en red neuronal inf.: C1 (rosa de leary) C2 = 🔁 (algebra l., ...)
 
-6.3 Algoritmos universales y sus modelos (leyes universales sistematizadas y sus representaciones)
- (relación entre algoritmos universales y sus modelos(representaciones) (objetivo de estos modelos)
 </p>
 
 Terrestres:
@@ -156,9 +154,8 @@ antiguo testamento:
 nuevo testamento:
 (Jesús - el cristo)
 
-[Ascensión tecnológica masculina + Manutención Tribal Femenina [AUMENTO DE CAPITALES: TECNOLÓGICO - GENÉTICO = VITAL]
 
--Ciclos de Día y Ciclos de Noche por Género (HEMISFERIOS CEREBRALES)
+ -Ciclos de Día y Ciclos de Noche por Género (HEMISFERIOS CEREBRALES - Lateralidad Hemisferial)
 
 -jung
 
@@ -166,23 +163,29 @@ nuevo testamento:
 .
 .
 
+-EXPANSIÓN HUMANA + ENTORNO:
+Tecnológica masculina + Manutención Tribal Femenina [AUMENTO DE CAPITALES: TECNOLÓGICO ♂ - GENÉTICO ♀ + VITAL ENTORNO]
+
+ 
 [EXTRATERRESTRES HUMANO-SOLARES]
-(...)
-[DESARROLLO TECNOLÓGICO-ENTORNO]
-(Vida expansiva (humana,...))
+
+ 6.3 FORMAS universales (filosofía,...), leyes físicas y sus modelos
+-Modelos físicos
+
+ 
 </p>
 
 
 <
 
 <p>
-EPÍLOGO:
+EPÍLOGO?:
 -(asimov)
 -transcurso histórico por planetas
 -el alma
--sobre la inmortalidad del alma
+-sobre la inmortalidad del alma...
 -transcurso larvario humano por planetas
-[EXPANSIVIDAD HUMANA]
+[EXPANSIVIDAD HUMANA + ENTORNO]
 
 </p>
 <p>
