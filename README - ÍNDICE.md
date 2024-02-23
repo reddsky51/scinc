@@ -145,15 +145,32 @@ PARTE 2
 6.3 Algoritmos universales y sus modelos (leyes universales sistematizadas y sus representaciones)
  (relación entre algoritmos universales y sus modelos(representaciones))(calendarios y horóscopos por cultura ej) (objetivo de estos modelos (¿predecir?))
 </p>
+Terrestres:
+
+antiguo testamento:
 -el k.
 -rep. art.
 -sig.(?)
 
+nuevo testamento:
+(Jesús - el cristo)
+
+-jung
+
+</p>
+
+
+<
 
 <p>
 EPÍLOGO:
 -(asimov)
--jung
+-transcurso histórico por planetas
+-el alma
+-sobre la inmortalidad del alma
+-transcurso larvario humano por planetas
+[EXPANSIVIDAD HUMANA]
+
 </p>
 <p>
 GLOSARIO
