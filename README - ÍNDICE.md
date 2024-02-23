@@ -147,6 +147,8 @@ PARTE 2
 </p>
 Terrestres:
 
+Ciclos de Día y Ciclos de Noche por Género
+
 antiguo testamento:
 -el k.
 -rep. art.
