@@ -1,4 +1,4 @@
--FREEM!ND Project
+-FREE MIND Project Y EXPANSIÓN VITAL HUMANA
  
 
 
@@ -143,8 +143,9 @@ PARTE 2
  -Ingreso de alg. en red neuronal inf.: C1 (rosa de leary) C2 = 🔁 (algebra l., ...)
 
 6.3 Algoritmos universales y sus modelos (leyes universales sistematizadas y sus representaciones)
- (relación entre algoritmos universales y sus modelos(representaciones))(calendarios y horóscopos por cultura ej) (objetivo de estos modelos (¿predecir?))
+ (relación entre algoritmos universales y sus modelos(representaciones) (objetivo de estos modelos)
 </p>
+
 Terrestres:
 
 antiguo testamento:
@@ -155,8 +156,20 @@ antiguo testamento:
 nuevo testamento:
 (Jesús - el cristo)
 
+[Ascensión tecnológica masculina + Manutención Tribal Femenina [AUMENTO DE CAPITALES: TECNOLÓGICO - GENÉTICO = VITAL]
+
+-Ciclos de Día y Ciclos de Noche por Género (HEMISFERIOS CEREBRALES)
+
 -jung
 
+.
+.
+.
+
+[EXTRATERRESTRES HUMANO-SOLARES]
+(...)
+[DESARROLLO TECNOLÓGICO-ENTORNO]
+(Vida expansiva humana...)
 </p>
 
 
