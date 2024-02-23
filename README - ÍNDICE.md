@@ -1,4 +1,4 @@
--FREEM!ND Project
+-EXPANSIÓN VITAL Y FREE MIND Project
  
 
 
