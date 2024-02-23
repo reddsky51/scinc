@@ -147,8 +147,6 @@ PARTE 2
 </p>
 Terrestres:
 
-Ciclos de Día y Ciclos de Noche por Género
-
 antiguo testamento:
 -el k.
 -rep. art.
@@ -156,6 +154,8 @@ antiguo testamento:
 
 nuevo testamento:
 (Jesús - el cristo)
+
+-Ciclos de Día y Ciclos de Noche por Género
 
 -jung
 
