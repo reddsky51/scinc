@@ -169,7 +169,7 @@ nuevo testamento:
 [EXTRATERRESTRES HUMANO-SOLARES]
 (...)
 [DESARROLLO TECNOLÓGICO-ENTORNO]
-(Vida expansiva humana...)
+(Vida expansiva (humana,...))
 </p>
 
 
