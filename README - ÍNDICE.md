@@ -176,11 +176,10 @@ EXPANSIÓN [ET]:
 Tecnológica masculina + Manutención Tribal Femenina [AUMENTO DE CAPITALES: TECNOLÓGICO ♂ - GENÉTICO ♀ + VITAL ENTORNO]
 
  
-[P. EXTRATERRESTRES HUMANO-SOLARES]
+[Postulados EXTRATERRESTRES HUMANO-SOLARES]
 
  6.3 FORMAS universales (filosofía,...), leyes físicas y sus modelos por planeta
--Modelos físicos
-
+-Modelos físicos <-> Adaptabilidad biológica
  
 </p>
 
@@ -188,13 +187,10 @@ Tecnológica masculina + Manutención Tribal Femenina [AUMENTO DE CAPITALES: TEC
 <
 
 <p>
-EPÍLOGO?:
+EPÍLOGO...?:
 -(asimov)
--transcurso histórico por planetas
 -el alma
 -sobre la inmortalidad del alma...
--desarrollo humano+entorno <-> planetas
-[EXPANSIVIDAD HUMANA + ENTORNO]
 
 </p>
 <p>
