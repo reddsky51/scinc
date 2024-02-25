@@ -2,6 +2,7 @@
  
 
 -LIBRO 1-
+
 FreeMind P.
 
  nota:
@@ -145,6 +146,7 @@ PARTE 2
  -Ingreso de alg. en red neuronal inf.: C1 (rosa de leary) C2 = 🔁 (algebra l., ...)
 
 -LIBRO 2-
+
 Expansión vital humana + Entorno
 
  
