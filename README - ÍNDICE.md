@@ -148,22 +148,46 @@ PARTE 3:
 VIBRACIONES Terrestres (Desarrollo histórico planetario - humano y biológico):
 
 ~Espiritualidad humana:
--FILOSOFÍA y RELIGIONES-
+-FILOSOFÍA (Conocimientos) y RELIGIONES (Iniciaciones Individuales (Apercepciones y petición "Von Herzen"))-
 
+-Iniciaciones:
  
+ Cristiana:
 -antiguo testamento:
--el k.
+
 -rep. art.
 -sig.(?)
 
-nuevo testamento:
+-nuevo testamento:
 (Jesús - el cristo)
+...
+ 
+ Griega:
+ ...
 
--
+ Budista:
+ ...
 
- -Ciclos de Día y Ciclos de Noche por Género (HEMISFERIOS CEREBRALES - Lateralidad Hemisferial)
+ Hinduísta:
+ ...
 
--jung
+ Indoamericanas:
+ ...
+
+ Asíaticas:
+ ...
+
+ Medioorientales:
+ -Sumerios
+ ...
+
+ Africanas:
+ -Egipto (El k.)
+ ...
+ 
+-...
+
+ -Ciclos de Día y Ciclos de Noche por Género (HEMISFERIOS CEREBRALES - Lateralidad Hemisferial (Jung (neopsicoanálisis))
 
 .
 .
