@@ -172,6 +172,10 @@ VIBRACIONES Terrestres (Desarrollo histórico planetario - humano y biológico):
  ...
 
  Indoamericanas:
+ -Maya
+ -Inca
+ -Tolteca
+ -Azteca
  ...
 
  Asíaticas:
