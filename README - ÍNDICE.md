@@ -1,6 +1,5 @@
 -FREE MIND Project Y EXPANSIÓN VITAL HUMANA + ENTORNO
  
-
 <pre>
 <p>
 
@@ -146,7 +145,6 @@ PARTE 2
 6.2.2 Finalidad de las ciencias sociales (sociología, epistemología de las ciencias sociales)
 6.2.3 Rosa de leary como base para una macroestructura tribal-civilización (rosa de leary - alg.?)
  -Ingreso de alg. en red neuronal inf.: C1 (rosa de leary) C2 = 🔁 (algebra l., ...)
-
 
 
 <p>
