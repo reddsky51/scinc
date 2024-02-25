@@ -1,6 +1,9 @@
 -FREE MIND Project Y EXPANSIÓN VITAL HUMANA + ENTORNO
  
 
+<pre>
+<p>
+
 -LIBRO 1-
 
 FreeMind P.
@@ -19,8 +22,7 @@ Lo que se presenta aquí es la estructura del modelo en libro. Un bosquejo del m
 
 Postulado: Las personas podrían desarrollar sus propios recursos psicológicos para poder adaptarse y/o buscar su medio o entorno de desarrollo y seguridad.
 
-<pre>
-<p>
+
 Prólogo:
 De la episteme al logos (filosofía, epistemología de la psicología)
 
