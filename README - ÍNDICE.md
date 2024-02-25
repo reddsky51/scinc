@@ -147,6 +147,9 @@ PARTE 2
 6.2.3 Rosa de leary como base para una macroestructura tribal-civilización (rosa de leary - alg.?)
  -Ingreso de alg. en red neuronal inf.: C1 (rosa de leary) C2 = 🔁 (algebra l., ...)
 
+
+
+<p>
 -LIBRO 2-
 
 Expansión vital humana + Entorno
