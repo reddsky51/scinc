@@ -200,7 +200,7 @@ VIBRACIONES Terrestres (Desarrollo histórico planetario - humano y biológico):
  
 -...
 
- -Ciclos de Día y Ciclos de Noche por Género (HEMISFERIOS CEREBRALES - Lateralidad Hemisferial (Jung (neopsicoanálisis))
+ -Ciclos de Día y Ciclos de Noche por Género (HEMISFERIOS CEREBRALES - Lateralidad Hemisferial (Jung (neopsicoanálisis), neurología, psiquiatría)
 
 .
 .
