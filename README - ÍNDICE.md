@@ -40,25 +40,25 @@ PARTE 1
 -Def. de psicoterapia
 
 1.1 Bases de psicoterapia (de uso del vínculo terapéutico):
-1.1.1 Uso apropiado de medicamentos (con intención (hinduismo - set and setting (lugar y contexto))) y gestión del placer:
+1.1.1 Uso apropiado de medicamentos (con intención (hinduismo - set and setting ((lugar y contexto)) y gestión del placer (supervisión psiquiátrica)):
 1.1.1.1 Uso de medicamentos (psicofarmacología, hinduismo, set and setting (lugar y contexto))
-1.1.1.2 Gestión del placer (neurología, hedonismo, gestión del tiempo, hinduismo)
+1.1.1.2 Gestión del placer (psicología y supervisión, neurología, hedonismo, gestión del tiempo, hinduismo)(evaluar necesidades y estado del paciente)
 1.1.2 Psicoterapia
 1.1.2.1 Psicoterapia personal
-1.1.2.1.1 Psicoterapia personal medicada
-Ciclo de la experiencia psicodélica
+1.1.2.1.1 Psicoterapia personal medicada (hinduismo - set and setting ((lugar y contexto)) y gestión del placer (supervisión psiquiátrica))
+Ciclo de la experiencia psicodélica (hinduismo - set and setting ((lugar y contexto)) y gestión del placer (supervisión psiquiátrica))
 1.1.2.1.2 Psicoterapia personal sin medicar
 Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (establecer diferencias)
 1.1.2.2 Psicoterapia grupal
-1.1.2.2.1 Psicoterapia grupal con medicación (evaluación con ciencia física) (mencionar la ética psicodélica de Leary)
-1.1.2.2.2 Psicoterapia grupal con persona de control (persona sin medicar) (experimentación con ciencia física) (mencionar la ética psicodélica de Leary)
+1.1.2.2.1 Psicoterapia grupal con medicación (evaluación con ciencia física) (mencionar la ética psicodélica de Leary) (supervisión psiquiátrica y psicológica)
+1.1.2.2.2 Psicoterapia grupal con persona de control (persona sin medicar) (experimentación con ciencia física (supervisión psiquiátrica)) (mencionar la ética psicodélica de Leary)
 
 1.2 Gestión y proyección del tiempo individual (coaching):
 1.2.1 Gestión del tiempo (coaching)
 1.2.2 Proyección del tiempo (¿objetivos a largo plazo?, ...)
 
 1.3 Bases de psicoterapia familiar:
-1.3.1 Mejoramiento del sistema familiar (teoría de sistemas, psicoterapia grupal, psicoterapia familiar)
+1.3.1 Mejoramiento del sistema familiar (teoría de sistemas, psicoterapia grupal, psicoterapia familiar) (supervisión psiquiátrica de ser necesario)
 1.3.2 Bienestar social (trabajo social) (investigaciones de sociología)
 </p>
 
@@ -97,9 +97,9 @@ PARTE 2
 3. Aplicación clínica y objetivos (psicología clínica, psicoterapia) (postulado: las personas podrían desarrollar sus propios recursos psicológicos para poder adaptarse y/o buscar su medio o entorno de desarrollo y seguridad) (desarrollo de personalidad) (jung):
 
 3.1 Individuales:
-3.1.1 Capacidad de recuperar recuerdos sin ser contaminado emocionalmente por ellos (desensibilización sistémica/psicoterapia (desarrollo de personalidad), test de evaluación de sensibilidad)
+3.1.1 Capacidad de recuperar recuerdos sin ser contaminado emocionalmente por ellos (desensibilización sistémica/psicoterapia (desarrollo de personalidad), test de evaluación de sensibilidad) (apoyo psiquiátrico de ser necesario)
 3.1.2 Capacidad de vivir el momento presente a voluntad (evaluación de atención/mindfulness)
-3.1.3 Proyección futura a distintos plazos de forma ampliable (nivel individual) (planificación de proyectos u objetivos personales, coaching) (nivel grupal)
+3.1.3 Proyección futura a distintos plazos de forma ampliable (nivel individual) (planificación de proyectos u objetivos personales, coaching) (nivel grupal, nivel individual)
 
 3.2 Grupales:
 -(ver psicoterapia grupal y familiar)
@@ -112,7 +112,7 @@ PARTE 2
 
 4.2 Humanismo ambientalista aplicado al modelo
 
-4.3 Ética psicodélica (Leary)
+4.3 Ética psicodélica (Leary, Ram Dass)
 
 4.4 Ética social (trabajo social, ubuntu, democracia (parecidos en otras culturas))
 </p>
