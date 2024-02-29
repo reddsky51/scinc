@@ -45,7 +45,7 @@ PARTE 1
 1.1.1.2 Gestión del placer (psicología y supervisión, neurología, hedonismo, gestión del tiempo, hinduismo)(evaluar necesidades y estado del paciente)
 1.1.2 Psicoterapia
 1.1.2.1 Psicoterapia personal
-1.1.2.1.1 Psicoterapia personal medicada (hinduismo - set and setting ((lugar y contexto)) y gestión del placer (supervisión psiquiátrica))
+1.1.2.1.1 Psicoterapia personal medicada (hinduismo - set and setting ((lugar y contexto)) y gestión del placer (supervisión psiquiátrica, psicológica, entornos estables y seguros))
 Ciclo de la experiencia psicodélica (hinduismo - set and setting ((lugar y contexto)) y gestión del placer (supervisión psiquiátrica))
 1.1.2.1.2 Psicoterapia personal sin medicar
 Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (establecer diferencias)
@@ -67,7 +67,7 @@ Psicoterapia personal y ciclo de la experiencia psicodélica/psicoterapéutica (
 -(capacidad de insight) (desarrollo de conciencia/personalidad, técnicas de "gracia autoalusiva" de Grinberg (1977)))
  
 2.1 Planos de la conciencia
-2.1.1 Plano concéntrico de niveles de conciencia (Modelo de conciencia de 8 circuitos de Leary/RAW)(desarrollo-activación de la conciencia) (desarrollo de sensibilidad perceptiva/empatía ej.) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología-lenguaje-sociolingüística), biología-etología-neurología-focos de atención, budismo))
+2.1.1 Plano concéntrico de niveles de conciencia (Modelo de conciencia de 8 circuitos de Leary/RAW)(desarrollo-activación de la conciencia) (desarrollo de sensibilidad perceptiva/empatía ej.) (circuitos/niveles de Leary y RAW, psicología del desarrollo, monopsiquia-polipsiquia (etología-lenguaje-sociolingüística), (biología-etología-neurología-(focos de atención, budismo))
 2.1.1.1 Plano de la experiencia perceptiva en tiempo presente bajo estímulos psicoactivos (estímulo psicoactivo: estímulo externo al individuo que interactúa con la percepción | Focos de percepción/interacción perceptiva)
  -Def. de focos de percepción (plano basado en ESPOLEA org)
  -Plano x: estímulos psicoactivos depresores - estímulos psicoactivos estimulantes
