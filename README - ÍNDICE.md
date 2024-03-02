@@ -4,8 +4,7 @@
 <p>
 
 -LIBRO 1-
-
-FreeMind P.
+FreeMind Project
 
 <p>
 -LIBRO 2-
