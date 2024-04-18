@@ -20,7 +20,9 @@
 GLOSARIO (Actualizable)
 
  -Set and setting: Lugar y contexto (percepción afectiva del entorno y autopercepción afectiva)
- -Psicoterapia: Proceso de idear y generar estímulos y entornos (de distintos tipos (perceptivos y/o subjetivos)) que "sacien" las necesidades y posibles proyecciones del entrevistado, basándonos en las expectativas de funcionalidad global del mismo. Para mantener dicha funcionalidad será necesario tomar en cuenta el Ciclo Psicoterapéutico, el cual puede variar en su orden debido a la complejidad de los casos.
+ -Psicoterapia: Proceso de idear y generar estímulos y entornos (de distintos tipos (perceptivos y/o subjetivos)) que "sacien" las necesidades
+ y posibles proyecciones del entrevistado, basándonos en las expectativas de funcionalidad global del mismo. Para mantener dicha funcionalidad
+ será necesario tomar en cuenta el Ciclo Psicoterapéutico, el cual puede variar en su orden debido a la complejidad de los casos.
  -Ciclos terapéuticos: 1. Experiencia psicodélica/psicoterapéutica-> Integración(retroalimentación)<->Experiencia cotidiana ->educación ->Preparación ->🔁
   2. Experiencia psicoterapéutica-> Integración<->experiencia cotidiana ->experiencia psicoterapeutica (educación/retroalimentación) ->🔁
  -Prepsicóticos y preepilépticos
