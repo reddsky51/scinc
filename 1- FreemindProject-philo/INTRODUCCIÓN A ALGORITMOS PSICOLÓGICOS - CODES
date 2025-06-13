@@ -1,0 +1,58 @@
+1. Meditación Sentado (Enfoque en la Respiración)
+graph TD
+    Inicio([Inicio]) --> A1["Enfoque en el presente"]
+    A1 --> A2["No juicio"]
+    A2 --> A3["No reactividad"]
+    A3 --> A4["Observación de la respiración"]
+    A4 --> D{"¿Distracción?"}
+    D -->|Sí: Pensamiento| AP["Reenfocar la atención"]
+    AP --> Repetir((Repetir)) --> A4
+    D -->|No| C1["Regulación de la atención (+)"]
+    C1 --> Fin([Fin])
+    D -->|No| C2["Claridad mental (+)"]
+    C2 --> Fin
+
+2. Yoga con Atención Plena (Conciencia Corporal)
+graph TD
+    Inicio([Inicio]) --> A1["Enfoque en el presente"]
+    A1 --> A2["No juicio"]
+    A2 --> A3["Posturas de yoga"]
+    A3 --> A4["Observar sensaciones"]
+    A4 --> D{"¿Distracción?"}
+    D -->|Sí: Tensión muscular| AP["Observar sin reaccionar"]
+    AP --> Repetir((Repetir)) --> A3
+    D -->|No| C1["Flexibilidad física (+)"]
+    C1 --> Fin([Fin])
+    D -->|No| C2["Equilibrio emocional (+)"]
+    C2 --> Fin
+
+3. Mecanismo de Cambio Cognitivo (Baer, 2003)
+graph TD
+    Inicio([Inicio]) --> A1["Observación sin juicio"]
+    A1 --> A2["Reconocer pensamientos"]
+    A2 --> C1["Reducción de ansiedad (+)"]
+    A2 --> C2["Cambio en la percepción (+)"]
+    C1 --> Fin([Fin])
+    C2 --> Fin
+
+4. Conciencia sin Elección (Meditación Avanzada)
+graph TD
+    Inicio([Inicio]) --> A1["Enfoque en el presente"]
+    A1 --> A2["No reactividad"]
+    A2 --> A3["Observación global"]
+    A3 --> C1["Conexión con el presente (+)"]
+    A3 --> C2["Desapego mental (+)"]
+    C1 --> Fin([Fin])
+    C2 --> Fin
+
+5. Modelo de Hölzel et al. (2011)
+graph TD
+    Inicio([Inicio]) --> A1["Regulación de la atención"]
+    Inicio --> A2["Conciencia corporal"]
+    Inicio --> A3["Regulación emocional"]
+    Inicio --> A4["Cambio en el yo"]
+    A1 --> C["Auto-regulación (+)"]
+    A2 --> C
+    A3 --> C
+    A4 --> C
+    C --> Fin([Fin])
